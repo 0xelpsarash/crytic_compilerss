@@ -1,7 +1,7 @@
 import os, subprocess, urllib.request as u, random
 import logging
 from typing import Optional
-from solc_select.solc_select import installed_versions, install_artifacts
+#from solc_select.solc_select import installed_versions, install_artifacts
 
 LOGGER = logging.getLogger("CryticCompile")
 
